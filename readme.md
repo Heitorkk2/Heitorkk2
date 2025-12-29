@@ -1,49 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:2d3448&height=180&section=header&text=Heitor&fontSize=52&fontColor=c4b5fd&fontAlignY=38&animation=fadeIn&fontAlign=50&stroke=a78bfa&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:2d3448&height=180&section=header&text=Heitor&fontSize=52&fontColor=c4b5fd&fontAlignY=38&animation=fadeIn&fontAlign=50&stroke=a78bfa&strokeWidth=1" width="100%"/>
 
-<br/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=22&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&multiline=false&width=500&lines=AI+Researcher;Dreaming+In+Code;From+Ideas+To+Systems;The+Wind+Is+Rising...;Building+What+I+Believe+In" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=22&duration=3000&pause=1500&color=C4B5FD&center=true&vCenter=true&multiline=false&width=500&lines=AI+Researcher;Dreaming+In+Code;From+Ideas+To+Systems;The+Wind+Is+Rising...;Building+What+I+Believe+In" alt="typing" />
 
-<br/>
-<p> ⋆ ˚ ｡ ⋆ ୨୧ ˚ ─────────── ⋆ ✦ ✧ ✦ ⋆ ─────────── ˚ ୨୧ ⋆ ｡ ˚ ⋆ </p>
+  <br/>
+  <p> ⋆ ˚ ｡ ⋆ ୨୧ ˚ ─────────── ⋆ ✦ ✧ ✦ ⋆ ─────────── ˚ ୨୧ ⋆ ｡ ˚ ⋆ </p>
 </div>
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="60%" align="center" valign="middle">
+<img align="right" src="assets/galaxy.png" width="280" alt="galaxy"/>
 
-<br/>
-<h3>✦</h3>
-<br/>
+### ✦
 
-Hi, I'm <b>Heitor</b>.<br/>
+**Hi, I'm Heitor.**  
 From Brazil.
 
-<br/><br/>
+<br/>
 
-I explore the space where imagination meets execution,<br/>
-artificial intelligence, experimental systems,<br/>
+I explore the space where imagination meets execution,  
+artificial intelligence, experimental systems,  
 and ideas that want to exist beyond the screen.
 
-<br/><br/>
+<br/>
 
-<b>I don't build systems.</b><br/>
-<b>I build my dreams.</b>
+**I don't build systems.**  
+**I build my dreams.**
 
-<br/><br/>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="assets/galaxy.png" width="100%" style="max-width: 280px; display: block;" alt="galaxy"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
